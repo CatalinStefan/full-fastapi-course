@@ -36,7 +36,6 @@ Each section is a treasure trove of lectures, code challenges, and practical exe
 
 •	Official FastAPI Documentation: Your map to the FastAPI universe.
 •	Code Examples: Check our GitHub repo, neatly organized for easy navigation.
-•	Help & Support: Stuck or curious? Drop your questions in our course forum or on GitHub.
 
 🏁 Crossing the Finish Line
 
